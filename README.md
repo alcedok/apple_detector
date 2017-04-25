@@ -1,4 +1,4 @@
-## Rudimentary Apple Detector using Thresholding and Morphological Operations
+## Rudimentary Apple Detector Using Thresholding and Morphological Operations
 
 ```
 Fall 2015
