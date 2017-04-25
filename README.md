@@ -20,14 +20,14 @@ Fall 2015
 
 ---
 
-<div style="text-align:center"><img width="739" alt="a" src="https://cloud.githubusercontent.com/assets/13475486/25365537/65ece204-2937-11e7-8c2d-e35c14a7c088.png">
+<div style="text-align:center"><img width="739" alt="a" src="https://cloud.githubusercontent.com/assets/13475486/25365537/65ece204-2937-11e7-8c2d-e35c14a7c088.png"></div>.
 
 ---
 
-<div style="text-align:center"><img width="586" alt="b" src="https://cloud.githubusercontent.com/assets/13475486/25365538/65f91998-2937-11e7-8f1c-27fba2e74fbc.png">
+<div style="text-align:center"><img width="586" alt="b" src="https://cloud.githubusercontent.com/assets/13475486/25365538/65f91998-2937-11e7-8f1c-27fba2e74fbc.png"></div>.
 
 ---
 
-<div style="text-align:center"><img width="508" alt="c" src="https://cloud.githubusercontent.com/assets/13475486/25365539/65f9aac0-2937-11e7-8726-51558b2dbb0b.png">
+<div style="text-align:center"><img width="508" alt="c" src="https://cloud.githubusercontent.com/assets/13475486/25365539/65f9aac0-2937-11e7-8726-51558b2dbb0b.png"></div>.
 
 ---
